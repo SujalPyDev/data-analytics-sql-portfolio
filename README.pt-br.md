@@ -5,18 +5,18 @@
 ![Licença](https://img.shields.io/github/license/SujalPyDev/data-analytics-sql-portfolio)
 ![Último commit](https://img.shields.io/github/last-commit/SujalPyDev/data-analytics-sql-portfolio)
 
-Um projeto profissional de SQL focado na análise do mercado de trabalho para analistas de dados.
-Este repositório explora cargos com maiores salários, habilidades mais demandadas, tendências salariais e as melhores habilidades para aprender.
+Um projeto profissional de SQL que analisa o mercado de trabalho para analistas de dados.
+Este repositório explora cargos com maiores salários, habilidades mais demandadas, tendências salariais e as habilidades mais valiosas para aprender para evolução de carreira.
 
-Inspirado em projetos de portfólio em SQL, este repositório foi estruturado para ser claro, organizado e atrativo para recrutadores.
+Inspirado em projetos de portfólio em SQL, este repositório foi criado para ser claro, organizado, atrativo para recrutadores e visualmente profissional.
 
 ## Sumário
 
 - [Visão Geral do Projeto](#visão-geral-do-projeto)
+- [Perguntas de Negócio](#perguntas-de-negócio)
 - [Ferramentas e Tecnologias](#ferramentas-e-tecnologias)
-- [Perguntas da Análise](#perguntas-da-análise)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Principais Insights](#principais-insights)
+- [Estrutura do Repositório](#estrutura-do-repositório)
+- [Principais Resultados](#principais-resultados)
 - [O Que Aprendi](#o-que-aprendi)
 - [Como Usar](#como-usar)
 - [Melhorias Futuras](#melhorias-futuras)
@@ -24,18 +24,11 @@ Inspirado em projetos de portfólio em SQL, este repositório foi estruturado pa
 
 ## Visão Geral do Projeto
 
-Este projeto demonstra uma análise completa em SQL usando dados reais de vagas de emprego. O objetivo é responder perguntas práticas de carreira e apresentar os resultados de forma clara e profissional.
+Este projeto demonstra uma análise completa em SQL usando dados reais de vagas de emprego. O objetivo é responder perguntas práticas de carreira e apresentar os resultados em um formato limpo e profissional.
 
-A análise foca em identificar vagas de analista de dados com maiores salários, entender quais habilidades os recrutadores mais valorizam e descobrir as melhores combinações de habilidades para desenvolvimento de carreira.
+A análise foca em identificar vagas de analista de dados com maiores salários, entender quais habilidades os empregadores mais valorizam e encontrar as melhores combinações de habilidades para desenvolvimento de carreira.
 
-## Ferramentas e Tecnologias
-
-- **SQL (sintaxe PostgreSQL)** — consultas e análise
-- **Sistema de gerenciamento de banco de dados / Editor SQL** — execução e testes
-- **Git & GitHub** — controle de versão e apresentação do projeto
-- **Ferramentas de visualização de dados** — usadas para transformar os resultados em gráficos e imagens para o portfólio
-
-## Perguntas da Análise
+## Perguntas de Negócio
 
 Este projeto responde cinco perguntas principais:
 
@@ -45,7 +38,14 @@ Este projeto responde cinco perguntas principais:
 4. Quais habilidades estão associadas a salários mais altos?
 5. Quais são as habilidades mais estratégicas para aprender com base em demanda e salário?
 
-## Estrutura do Projeto
+## Ferramentas e Tecnologias
+
+- **SQL (sintaxe PostgreSQL)** — consultas e análise
+- **Sistema de gerenciamento de banco de dados / Editor SQL** — execução e testes
+- **Git & GitHub** — controle de versão e apresentação do projeto
+- **Ferramentas de visualização de dados** — usadas para criar gráficos e visuais do portfólio
+
+## Estrutura do Repositório
 
 ```text
 .
@@ -61,7 +61,7 @@ Este projeto responde cinco perguntas principais:
     └── 5. most_optimal_skills.sql
 ```
 
-## Principais Insights
+## Principais Resultados
 
 - Funções remotas e cargos sênior tendem a oferecer as maiores remunerações.
 - SQL, Python, Tableau, Power BI e ferramentas de cloud/data aparecem com frequência nas vagas mais bem pagas.

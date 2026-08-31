@@ -5,18 +5,18 @@
 ![License](https://img.shields.io/github/license/SujalPyDev/data-analytics-sql-portfolio)
 ![Last commit](https://img.shields.io/github/last-commit/SujalPyDev/data-analytics-sql-portfolio)
 
-A professional SQL portfolio project focused on analyzing the data analyst job market.
-This repository explores top-paying roles, in-demand skills, salary trends, and the most optimal skills to learn for career growth.
+A professional SQL portfolio project that analyzes the data analyst job market.
+This repository explores top-paying roles, in-demand skills, salary trends, and the most valuable skills to learn for career growth.
 
-Inspired by portfolio-style SQL projects, this repository is structured to be recruiter-friendly, easy to navigate, and visually clean.
+Inspired by portfolio-style SQL projects, this repository is designed to be recruiter-friendly, easy to navigate, and visually polished.
 
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Business Questions](#business-questions)
 - [Tools & Technologies](#tools--technologies)
-- [Analysis Questions](#analysis-questions)
-- [Project Structure](#project-structure)
-- [Key Insights](#key-insights)
+- [Repository Structure](#repository-structure)
+- [Key Findings](#key-findings)
 - [What I Learned](#what-i-learned)
 - [How to Use](#how-to-use)
 - [Future Improvements](#future-improvements)
@@ -24,18 +24,11 @@ Inspired by portfolio-style SQL projects, this repository is structured to be re
 
 ## Project Overview
 
-This project demonstrates end-to-end SQL analysis using real job posting data. The goal is to answer practical career-focused questions and present findings in a clear, professional format.
+This project demonstrates end-to-end SQL analysis using real job posting data. The goal is to answer practical career-focused questions and present the findings in a clean, professional format.
 
 The analysis focuses on identifying high-paying data analyst roles, understanding the skills employers value most, and finding the best skill combinations for career development.
 
-## Tools & Technologies
-
-- **SQL (PostgreSQL syntax)** — querying and analysis
-- **Database Management System / SQL Editor** — executing and testing queries
-- **Git & GitHub** — version control and portfolio presentation
-- **Data visualization tools** — used to turn query results into clear visuals for the portfolio
-
-## Analysis Questions
+## Business Questions
 
 This project answers five core questions:
 
@@ -45,7 +38,14 @@ This project answers five core questions:
 4. Which skills are associated with higher average salaries?
 5. What are the most optimal skills to learn based on demand and salary?
 
-## Project Structure
+## Tools & Technologies
+
+- **SQL (PostgreSQL syntax)** — querying and analysis
+- **Database Management System / SQL Editor** — executing and testing queries
+- **Git & GitHub** — version control and portfolio presentation
+- **Data visualization tools** — used to create charts and visuals for the portfolio
+
+## Repository Structure
 
 ```text
 .
@@ -61,11 +61,11 @@ This project answers five core questions:
     └── 5. most_optimal_skills.sql
 ```
 
-## Key Insights
+## Key Findings
 
 - Remote and senior analyst roles tend to offer the highest compensation.
-- SQL, Python, Tableau, Power BI, and cloud/data tooling frequently appear in high-paying postings.
-- The strongest career opportunities come from skills that combine both high demand and high salary potential.
+- SQL, Python, Tableau, Power BI, and cloud/data tools frequently appear in high-paying postings.
+- The best career opportunities come from skills that combine both high demand and high salary potential.
 - Specialized tools such as Snowflake, Databricks, Kafka, and PyTorch can add strong market value.
 
 ## What I Learned
