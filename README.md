@@ -57,8 +57,8 @@ This project answers five core questions:
     ├── 1. top_paying_jobs.sql
     ├── 2. top_paying_skills.sql
     ├── 3. in_demand_skills.sql
-    ├── 4. top_salary_based_skills.sql
-    └── 5. most_optimal_skills.sql
+    ├── 4. salary_based_skills.sql
+    └── 5. optimal_skills.sql
 ```
 
 ## Key Findings
