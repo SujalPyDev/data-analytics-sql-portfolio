@@ -17,11 +17,11 @@ The goal is to answer practical career-focused questions using real job posting 
 
 This project answers five core questions:
 
-1. [Which data analyst jobs pay the most?](./practice_project_sql/1.%20top_paying_jobs.sql)
-2. [What skills are required for top-paying analyst jobs?](./practice_project_sql/2.%20top_paying_skills.sql)
-3. [Which skills are most in demand for data analysts?](./practice_project_sql/3.%20in_demand_skills.sql)
-4. [Which skills are associated with higher average salaries?](./practice_project_sql/4.%20top_salary_based_skills.sql)
-5. [What are the most optimal skills (high demand + high pay)?](./practice_project_sql/5.%20most_optimal_skills.sql)
+1. [Which data analyst jobs pay the most?](./practice_project_sql/1. top_paying_jobs.sql)
+2. [What skills are required for top-paying analyst jobs?](./practice_project_sql/2. top_paying_skills.sql)
+3. [Which skills are most in demand for data analysts?](./practice_project_sql/3. in_demand_skills.sql)
+4. [Which skills are associated with higher average salaries?](./practice_project_sql/4. top_salary_based_skills.sql)
+5. [What are the most optimal skills (high demand + high pay)?](./practice_project_sql/5. most_optimal_skills.sql)
 
 ## Project Structure
 
