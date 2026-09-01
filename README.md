@@ -145,7 +145,7 @@ Contact
 -------
 If you have questions or feedback:
 - GitHub: https://github.com/SujalPyDev
-- Email: you@your-email.example (replace with a real contact)
+- Email: sujaljaswal089@gmail.com
 
 Credits
 -------
