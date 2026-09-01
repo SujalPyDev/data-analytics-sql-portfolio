@@ -1,0 +1,7 @@
+job_id,job_title,job_title_short,salary_year_avg,job_location,job_work_from_home,company_id
+1,Senior Data Analyst,Data Analyst,120000,Anywhere,true,10
+2,Data Analyst,Data Analyst,90000,New York,false,11
+3,Principal Data Analyst,Data Analyst,150000,Anywhere,true,12
+4,Data Analyst,Data Analyst,80000,Remote,true,13
+5,Marketing Data Analyst,Data Analyst,95000,San Francisco,false,11
+6,Data Engineer,Data Engineer,130000,Anywhere,true,14
